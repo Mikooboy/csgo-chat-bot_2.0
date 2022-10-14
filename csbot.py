@@ -95,7 +95,7 @@ def main():
 
 				# help
 				if "!help" in message.lower():
-					msg = "List of commands: !​info <name>, !calc <math>, !​tj, !​ulla, !help, !burn, !dz, !github" + " "
+					msg = "List of commands: !​info <name>, !calc <math>, !help, !dz, !github" + " "
 					chat_queue.add_msg(msg)
 
 				# Player info
