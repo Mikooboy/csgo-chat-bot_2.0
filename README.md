@@ -33,8 +33,8 @@ Run the chat bot:
     !dz                 - Prints the current and next danger zone map
 
     !calc <expression>  - Calculates the math expression in <math> and returns the answer
-                         Example:
-                           !calc (5 + 5) * 2
+                          Example:
+                            !calc (5 + 5) * 2
 
     !mute <string>      - Adds the string to the clear list
                           The bot will send a chat clear message when it detects the string in the chat name or message
